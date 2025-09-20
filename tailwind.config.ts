@@ -47,6 +47,15 @@ export default {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
         },
+        // Custom farm colors
+        farm: {
+          green: "hsl(var(--farm-green))",
+          "green-light": "hsl(var(--farm-green-light))",
+          "green-dark": "hsl(var(--farm-green-dark))",
+          yellow: "hsl(var(--farm-yellow))",
+          "yellow-light": "hsl(var(--farm-yellow-light))",
+          cream: "hsl(var(--nature-cream))",
+        },
         sidebar: {
           DEFAULT: "hsl(var(--sidebar-background))",
           foreground: "hsl(var(--sidebar-foreground))",
